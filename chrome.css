@@ -1,0 +1,53 @@
+/* Hide unwanted Zen/Firefox buttons */
+#zen-site-data-icon-button,
+#zen-copy-url-button,
+#PanelUI-button,
+#PanelUI-menu-button {
+    display: none !important;
+}
+
+/* URL bar layout */
+#urlbar-input-container,
+.urlbar-input-container {
+    display: flex !important;
+    gap: 0 !important;
+}
+
+/* Left-side privacy controls order */
+#tracking-protection-icon-container {
+    display: block !important;
+    order: 1 !important;
+}
+
+#identity-box {
+    display: flex !important;
+    order: 2 !important;
+}
+
+#page-action-buttons {
+    display: flex !important;
+    order: 3 !important;
+}
+
+/* Keep the URL text after the icons */
+.urlbar-input-box,
+#urlbar-input {
+    order: 4 !important;
+}
+
+/* Make padlock internals visible */
+#identity-permission-box,
+#identity-icon-box {
+    display: flex !important;
+}
+
+/* Tighten spacing around the privacy controls */
+#tracking-protection-icon-container,
+#identity-box,
+#page-action-buttons,
+#identity-permission-box,
+#identity-icon-box {
+    min-width: 0 !important;
+    padding-inline-start: 0 !important;
+    padding-inline-end: 2.5px !important;
+}
