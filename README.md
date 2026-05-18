@@ -11,7 +11,7 @@ This is a mod for zen browser, a Firefox's fork. Moves the tracking shield, padl
 **Accessibility note**
 This mod uses the CSS `order` property to change visual placement. MDN notes that `order` affects the visual order but not the underlying logical or navigation order, which can matter for accessibility and keyboard behavior.
 
-## Changes in advanced parameters (about:config) :
+## Settings automatically modified in advanced parameters (about:config) :
 - Tells Zen Browser that it is allowed to be modified : `toolkit.legacyUserProfileCustomizations.stylesheets`, value : `true`.
 - Brings back the Classic Extensions Button : `zen.theme.hide-unified-extensions-button`, value : `false`.
 - Brings back the dedicated tracking shield icon : `zen.urlbar.show-protections-icon`, value : `true`.
