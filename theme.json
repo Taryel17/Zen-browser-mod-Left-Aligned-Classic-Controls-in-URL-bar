@@ -1,0 +1,9 @@
+{
+  "id": "Taryel17 Zen-browser-mod-Left-Aligned-Classic-Controls-in-URL-bar",
+  "name": "Left Aligned Classic Controls in URL bar",
+  "description": "Moves the tracking shield, padlock, and cookie permissions to the left side of the URL bar and tightly groups them.",
+  "version": "1.0.0",
+  "author": "Taryel17",
+  "readme": "https://raw.githubusercontent.com/Taryel17/Zen-browser-mod-Left-Aligned-Classic-Controls-in-URL-bar/main/README.md",
+  "chrome": "https://raw.githubusercontent.com/Taryel17/Zen-browser-mod-Left-Aligned-Classic-Controls-in-URL-bar/main/chrome.css"
+}
