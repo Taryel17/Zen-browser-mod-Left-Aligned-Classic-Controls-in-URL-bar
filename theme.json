@@ -6,4 +6,6 @@
   "author": "Taryel17",
   "readme": "https://raw.githubusercontent.com/Taryel17/Zen-browser-mod-Left-Aligned-Classic-Controls-in-URL-bar/main/README.md",
   "chrome": "https://raw.githubusercontent.com/Taryel17/Zen-browser-mod-Left-Aligned-Classic-Controls-in-URL-bar/main/chrome.css"
+  "preferences": "https://raw.githubusercontent.com/Taryel17/Zen-browser-mod-Left-Aligned-Classic-Controls-in-URL-bar/zen-compact-privacy-mod/main/preferences.json"
+}
 }
