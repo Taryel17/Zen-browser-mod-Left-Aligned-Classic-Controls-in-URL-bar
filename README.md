@@ -1,6 +1,8 @@
 # Zen browser mod: Left-Aligned-Classic-Controls-in-URL-bar
 This is a mod for zen browser, a Firefox's fork. Moves the tracking shield, padlock, and cookie permissions to the left side of the URL bar and tightly groups them. Removes the Zen Unified and Copy buttons.
 
+<img width="435" height="47" alt="Screenshot 2026-05-18 at 17 32 04" src="https://github.com/user-attachments/assets/5f834aba-dd02-4cb3-870d-afb62c432bc5" />
+
 ## What the CSS code does :
 - Moves the tracking protection button, padlock, and cookie permissions button to the left side of the URL bar using flex ordering.
 - Removes spacing between URL bar items with `gap: 0`, which is the CSS property used to create gutters between flex items.
